@@ -9,6 +9,7 @@ A command-line application that allows users to generate simple logos using SVG 
 https://github.com/TravisHaynie/OPP-you-Know-me
 
 ## Screenshot
+![Screenshot 2024-07-21 132154](https://github.com/user-attachments/assets/0c488e72-a5f6-453e-b10c-0c4b62f4b9f5)
 
 
 ## Table of Contents
