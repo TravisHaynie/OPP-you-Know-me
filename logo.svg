@@ -1,5 +1,5 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
                 <rect  fill="white" />
                 <circle cx="155" cy="100" r="50" fill="red" />
-                <text x="133" y="107" fill="white" font-size="35">svg</text>
+                <text x="133" y="107" fill="black" font-size="35">svg</text>
               </svg>
